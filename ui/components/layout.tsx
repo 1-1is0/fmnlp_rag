@@ -11,7 +11,11 @@ export default function Layout({ children }: LayoutProps) {
             <a href="#" className="hover:text-slate-600 cursor-pointer">
               Home
             </a>
+            <a href="docs" className="hover:text-slate-600 cursor-pointer">
+              PDF
+            </a>
           </nav>
+
         </div>
       </header>
       <div>
