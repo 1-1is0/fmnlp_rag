@@ -5,7 +5,7 @@ ENV PYTHONUNBUFFERED 1
 
 RUN --network=host <<eot
     apt-get update
-    apt-get install -y netcat-traditional curl
+    apt-get install -y netcat-traditional curl ffmpeg libsm6 libxext6
     pip install -U pip
 eot
 

@@ -10,7 +10,7 @@ services:
     volumes:
       - ./ui/:/app
     ports:
-      - 3001:3000
+      - 3000:3000
     command: npm run dev
   api:
     build:
@@ -20,7 +20,7 @@ services:
     volumes:
       - ./api/:/app
     ports:
-      - 8001:8000
+      - 8000:8000
     command: python manage.py runserver
 
     

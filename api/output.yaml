@@ -1,0 +1,295 @@
+- answers:
+  - Jamaican Creole English Language
+  - Jamaican English
+  llm: Jamaican people speak Jamaican Patois.
+  question: what does jamaican people speak?
+  rag: Jamaican people speak Jamaican Creole English Language and Jamaican English.
+- answers:
+  - Lawyer
+  llm: He served as the Governor of Tennessee.
+  question: what did james k polk do before he was president?
+  rag: James K. Polk was a lawyer before he became president.
+- answers:
+  - University of Oregon
+  llm: I'm sorry, but I don't have access to specific schedules.
+  question: what is the oregon ducks 2012 football schedule?
+  rag: There is no information provided in the given context about the Oregon Ducks
+    2012 football schedule.
+- answers:
+  - Tony Warren
+  llm: William Roache.
+  question: who plays ken barlow in coronation street?
+  rag: There is no information provided in the given context about who plays Ken Barlow
+    in Coronation Street.
+- answers:
+  - Yaotsu
+  llm: His actions were recognized and he was honored as a hero for saving thousands
+    of Jewish lives during World War II.
+  question: what happened after mr. sugihara died?
+  rag: Based on the given context, there is no information available about what happened
+    after Mr. Sugihara died.
+- answers:
+  - wolfgang amadeus mozart used story by pierre beaumarchais
+  llm: Leopold and Joseph Leutgeb.
+  question: who did mozart write his four horn concertos for?
+  rag: Based on the given context, there is no information available about who Mozart
+    wrote his four horn concertos for.
+- answers:
+  - Mobile
+  llm: Mobile, Alabama.
+  question: where is jamarcus russell from?
+  rag: The context does not provide any information about where Jamarcus Russell is
+    from.
+- answers:
+  - Diamond
+  llm: United States.
+  question: where was george washington carver from?
+  rag: Based on the given context, the question "where was George Washington Carver
+    from?" cannot be answered.
+- answers:
+  - Lightning rod
+  - Franklin stove
+  - Bifocals
+  - Glass harmonica
+  llm: Ben Franklin also invented the lightning rod, bifocals, and the Franklin stove.
+  question: what else did ben franklin invent?
+  rag: Based on the given context, Ben Franklin also invented bifocals and the glass
+    harmonica.
+- answers:
+  - Pat Nixon
+  llm: Patricia Nixon
+  question: who was richard nixon married to?
+  rag: Based on the given context, the question "who was Richard Nixon married to?"
+    cannot be answered.
+- answers:
+  - Belgium
+  llm: Belgium.
+  question: what country did germany invade first in ww1?
+  rag: The question cannot be answered based on the given context.
+- answers:
+  - Micoud Quarter
+  - Choiseul Quarter
+  - Praslin Quarter
+  - Vieux Fort Quarter
+  - Castries Quarter
+  - Laborie Quarter
+  - Gros Islet Quarter
+  - Anse la Raye Quarter
+  - Dauphin Quarter
+  - Dennery Quarter
+  llm: There is no definitive answer as the best Sandals resort in St. Lucia can vary
+    depending on individual preferences.
+  question: what is the best sandals resort in st lucia?
+  rag: There is not enough information provided to answer the question.
+- answers:
+  - John Kasich
+  llm: John Kasich
+  question: who is governor of ohio 2011?
+  rag: Based on the given context, there is no information available about the governor
+    of Ohio in 2011.
+- answers:
+  - Lyndon B. Johnson
+  llm: Lyndon B. Johnson.
+  question: who was vice president after kennedy died?
+  rag: The question cannot be answered based on the given context.
+- answers:
+  - Japan
+  - Okuma
+  llm: Japan.
+  question: where is the fukushima daiichi nuclear plant located?
+  rag: The question cannot be answered based on the given context.
+- answers:
+  - Nancy Pelosi
+  llm: Kevin McCarthy
+  question: who is the minority leader of the house of representatives now?
+  rag: Based on the given context, it is not possible to determine who the current
+    minority leader of the House of Representatives is.
+- answers:
+  - Scotland
+  - England
+  - Wales
+  - Northern Ireland
+  llm: England, Scotland, Wales, and Northern Ireland.
+  question: what countries are part of the uk?
+  rag: The countries that are part of the UK are England, Wales, and Northern Ireland.
+- answers:
+  - Norman Bird
+  - Martin Freeman
+  - Ian Holm
+  llm: Martin Freeman
+  question: who plays bilbo baggins in the hobbit?
+  rag: The possible answers based on the given context are Norman Bird, Martin Freeman,
+    and Ian Holm.
+- answers:
+  - Civil rights movement
+  - Civil disobedience
+  - Nonviolence
+  llm: Civil rights activism, leadership in the Montgomery Bus Boycott, March on Washington,
+    and advocating for racial equality and justice.
+  question: what things did martin luther king do?
+  rag: Martin Luther King Jr. was involved in the Civil Rights Movement, practiced
+    civil disobedience, and promoted nonviolence.
+- answers:
+  - Central Time Zone
+  - "UTC\u221206:00"
+  llm: Central Standard Time (CST)
+  question: what is my timezone in louisiana?
+  rag: Based on the given context, there is no information available about the timezone
+    in Louisiana.
+- answers:
+  - Physician
+  - Writer
+  - Philosopher
+  llm: St. Augustine was a theologian and philosopher.
+  question: what did st augustine do?
+  rag: St. Augustine was a physician, writer, and philosopher.
+- answers:
+  - Leon Cole
+  llm: Virgil Hunter
+  question: who is keyshia cole dad?
+  rag: Based on the given context, there is no information available about Keyshia
+    Cole's dad.
+- answers:
+  - Semi-presidential system
+  - Constitutional republic
+  - Republic
+  - Unitary state
+  llm: Egypt has a presidential republic government.
+  question: what kind government does egypt have?
+  rag: Egypt has a semi-presidential system, a constitutional republic, and a unitary
+    state.
+- answers:
+  - Memphis
+  llm: Memphis.
+  question: what town was martin luther king assassinated in?
+  rag: Martin Luther King was assassinated in Memphis.
+- answers:
+  - Baltimore
+  llm: Baltimore, Maryland.
+  question: where did edgar allan poe died?
+  rag: Edgar Allan Poe died in Baltimore.
+- answers:
+  - During the early 1830's he began inventing, filing six patents between 1830 and
+    1834, and during this period became interested in rubber, which he tried - unsuccessfully
+    - to use in some of his mechanical inventions.
+  llm: '1839'
+  question: when did charles goodyear invented rubber?
+  rag: During the early 1830's he began inventing, filing six patents between 1830
+    and 1834, and during this period became interested in rubber, which he tried -
+    unsuccessfully - to use in some of his mechanical inventions.
+- answers:
+  - Atlanta History Center
+  - Atlanta Cyclorama & Civil War Museum
+  - Atlanta Ballet
+  - Fernbank Museum of Natural History
+  - Woodruff Arts Center
+  - Zoo Atlanta
+  - Atlanta Symphony Orchestra
+  - Centennial Olympic Park
+  - Martin Luther King, Jr., National Historic Site
+  - Fernbank Science Center
+  llm: Visit the Georgia Aquarium.
+  question: what to do today in atlanta with kids?
+  rag: 'Some possible answers based on the context are:
+
+    - Martin Luther King, Jr., National Historic Site
+
+    - Fernbank Science Center
+
+    - Atlanta History Center
+
+    - Atlanta Cyclorama & Civil War Museum
+
+    - Atlanta Ballet
+
+    - Fernbank Museum of Natural History
+
+    - Woodruff Arts Center
+
+    - Zoo Atlanta
+
+    - Atlanta Symphony Orchestra
+
+    - Centennial Olympic Park'
+- answers:
+  - Germany
+  llm: Germany
+  question: who did france surrender to in ww2?
+  rag: The answer cannot be determined based on the given context.
+- answers:
+  - Electoral district of South Brisbane
+  llm: Unknown.
+  question: what electorate does anna bligh represent?
+  rag: Anna Bligh represents the Electoral district of South Brisbane.
+- answers:
+  - us
+  llm: NBC
+  question: what channel is the usa pageant on?
+  rag: Based on the given context, there is no information provided about the channel
+    for the USA pageant.
+- answers:
+  - "Zak\u0101t"
+  - Salah
+  - Hajj
+  - Islamic dietary laws
+  - Mosque Carpet
+  - Jihad
+  - Sawm
+  - Halal food
+  - Shahada
+  - Adab
+  llm: Prayer, fasting, charity, pilgrimage.
+  question: what are some of the traditions of islam?
+  rag: Some of the traditions of Islam include Hajj, Islamic dietary laws, Mosque
+    Carpet, Jihad, Sawm, Halal food, Shahada, and Adab.
+- answers:
+  - United Kingdom
+  llm: Scotland.
+  question: where did andy murray started playing tennis?
+  rag: Based on the given context, there is no information available about where Andy
+    Murray started playing tennis.
+- answers:
+  - Australian dollar
+  llm: AUD
+  question: what is the australian dollar called?
+  rag: Based on the given context, the Australian dollar is called the Australian
+    dollar.
+- answers:
+  - Central European Time
+  llm: Central European Time (CET)
+  question: what timezone is sweden?
+  rag: The timezone in Sweden is Central European Time (CET).
+- answers:
+  - Carolina Panthers
+  llm: Cam Newton signed with the New England Patriots.
+  question: who did cam newton sign with?
+  rag: There is no information provided in the given context about who Cam Newton
+    signed with.
+- answers:
+  - Frederick County
+  llm: Frederick, MD is in Frederick County.
+  question: what county is frederick md in?
+  rag: Based on the given context, there is no information available to determine
+    the county in which Frederick, MD is located.
+- answers:
+  - Monroe County High School
+  llm: Monroeville High School.
+  question: what highschool did harper lee go to?
+  rag: Harper Lee attended Monroe County High School.
+- answers:
+  - Mountain Time Zone
+  llm: Mountain Standard Time (MST)
+  question: what timezone is utah in?
+  rag: The context does not provide information about the timezone in Utah.
+- answers:
+  - Al Gore
+  llm: John Kerry.
+  question: who did george w. bush run against for the second term?
+  rag: The given context does not provide any information about who George W. Bush
+    ran against for his second term.
+- answers:
+  - Ayaan Hirsi Ali
+  llm: Ayaan Hirsi Ali.
+  question: who is niall ferguson's wife?
+  rag: There is no information provided in the given context about Niall Ferguson's
+    wife.
